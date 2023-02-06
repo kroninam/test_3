@@ -1,0 +1,1 @@
+test with git stash on master and checkout to 2 branch
